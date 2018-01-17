@@ -1,0 +1,2 @@
+redis==2.10.5
+validators==0.12.0
